@@ -1,6 +1,7 @@
 # Jake Owen
 
-_Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million pound weekly turnover._ <br>
+_Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million pound weekly turnover.
+I am looking to become a perminant fixture in a high functioning team and work towards taking on increaed responsibility and leadership challenges._ <br>
 
 [Email](mailto:jlowen1994@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/jake-owen/) / [GitHub](https://github.com/connectwd/)
 
@@ -32,10 +33,10 @@ First Point of contact for students and staff at the univerity.
 
 ## 👩🏼‍🎓 Education
 
-**Masters of Science** - Digital and Technology Specialist, Software Eng. | Grade TBD <br>
+**Masters of Science** - Digital and Technology Specialist, Software Eng. <br>
 [Northumbria University](https://www.northumbria.ac.uk/) - _(2019 - 2023)_
 
-**Bachelor of Science with Honours** - Information and Communication Technology | 2:1 <br>
+**Bachelor of Science with Honours** - Information and Communication Technology <br>
 [Huddersfield University](https://www.hud.ac.uk/) - _(2014 - 2019)_
 
 ## 📌 Personal Projects
@@ -46,4 +47,8 @@ First Point of contact for students and staff at the univerity.
 ## 🏆 Certifications
 
 **Java and Web application security** - [Scademy](https://cert.scademy.com/certificate/onaVsBZmyqlQuKLmGgGI) - _(2018)_ <br>
+
+## 📝 References
+
+References avaliable upon receipt of an job offer.
 
