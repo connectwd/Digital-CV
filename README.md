@@ -1,7 +1,7 @@
 # Jake Owen
 
 _Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million pound weekly turnover.
-I am looking to become a perminant fixture in a high functioning team and work towards taking on increaed responsibility and leadership challenges._ <br>
+I am looking to become a perminant fixture in a high functioning team and work towards taking on increased responsibility and leadership challenges._ <br>
 
 [Email](mailto:jlowen1994@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/jake-owen/) / [GitHub](https://github.com/connectwd/)
 
