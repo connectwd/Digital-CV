@@ -1,7 +1,6 @@
 # Jake Owen
 
-_Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million pound weekly turnover.
-I am looking to become a perminant fixture in a high functioning team and work towards taking on increased responsibility and leadership challenges._ <br>
+_Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million-pound weekly turnover. I am looking to become a permanent fixture in a high functioning team and work towards taking on increased responsibility and leadership challenges._ <br>
 
 [Email](mailto:jlowen1994@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/jake-owen/) / [GitHub](https://github.com/connectwd/)
 
@@ -9,11 +8,12 @@ I am looking to become a perminant fixture in a high functioning team and work t
 
 **Software Engineer** @ [William Hill](https://williamhill.com/) _(Aug 2019 - Present)_ <br>
 Industry recognised, international betting company.
-  - Development of new functionality in line with end-user and architecural requirements.
-  - Creation of unit tests to maintain a high developmental and technical standard.
-  - Participate in and support an Agile development approach.
-  - Investigation, research and implement coding solutions from trusted sources ( Google, Stack Overflow ).
-  - **_Technologies used:_** JavaScript, React, TypeScript, Java, Jest, React Testing Library, HTML, CSS, Sass, SQL, Serverless, AWS Lambda, AWS Cloudfront, Jira.
+  -	Development of new functionality in line with end-user and architectural requirements.
+  -	Creation of unit tests to maintain a high developmental and technical standard.
+  -	Participate in and support an Agile development approach.
+  -	Investigation, research and implement coding solutions from trusted sources ( Google, Stack Overflow ).
+  -	Technologies used: JavaScript, React, TypeScript, Java, Jest, React Testing Library, HTML, CSS, Sass, SQL, Serverless, AWS Lambda, AWS Cloudfront, Jira.
+
 <br><br>
 
 **Software Developer In Test** @ [William Hill](https://williamhill.com/) _(June 2022 - Nov 2022)_ <br>
