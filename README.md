@@ -27,7 +27,7 @@ Secondment to expand skill set and fill a gap in the teams testing resources.
 **First Line IT Support** @ [Huddersfield University](http://hud.ac.uk/) _(Aug 2017 - Aug 2019)_ <br>
 First Point of contact for students and staff at the univerity.
   - Control of customer interactions via phone, email and face-to-face.
-  - Complaint managment and resolution.
+  - Complaint management and resolution.
   - **_Technologies used:_** Active Directory (AD).
 <br><br>
 
