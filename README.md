@@ -41,8 +41,8 @@ First Point of contact for students and staff at the univerity.
 
 ## 📌 Personal Projects
 
-**Gainz Club NFT** | [Repo](https://github.com/connectwd/GainzClub.github.io) - NFT project to promote personal fitness and mens mental health <br>
-[GainzClub](https://gainzclub.xyz/) aimed to bring the fitness industry into the new digital age while also donnating a portion of profits to mens mental health charities.
+**Gainz Club NFT** | [Repo](https://github.com/connectwd/GainzClub.github.io) - NFT project to promote personal fitness and men's mental health <br>
+[GainzClub](https://gainzclub.xyz/) aimed to bring the fitness industry into the new digital age while also donating a portion of profits to men's mental health charities.
 
 ## 🏆 Certifications
 
@@ -50,5 +50,5 @@ First Point of contact for students and staff at the univerity.
 
 ## 📝 References
 
-References avaliable upon receipt of an job offer.
+References available upon receipt of an job offer.
 
