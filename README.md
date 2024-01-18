@@ -1,8 +1,10 @@
 # Jake Owen
 
-_Full-Stack Software engineer based in the UK with over 3 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million-pound weekly turnover. I am looking to become a permanent fixture in a high functioning team and work towards taking on increased responsibility and leadership challenges._ <br>
+_Full-Stack Software engineer based in the UK with over 4 years industry experience across multiple programming languages. Developed key aspects of customer facing application which generates multi-million-pound weekly turnover. I am looking to become a permanent fixture in a high functioning team and work towards taking on increased responsibility and leadership challenges._ <br>
 
-[Email](mailto:jlowen1994@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/jake-owen/) / [GitHub](https://github.com/connectwd/)
+“Never memorize something that you can look up.” — Albert Einstein
+
+[Email](mailto:jake.l.owen@outlook.com) / [LinkedIn](https://www.linkedin.com/in/jake-owen/) / [GitHub](https://github.com/connectwd/)
 
 ## 👩🏼‍💻 Engineering Experience
 
@@ -12,7 +14,7 @@ Industry recognised, international betting company.
   -	Creation of unit tests to maintain a high developmental and technical standard.
   -	Participate in and support an Agile development approach.
   -	Investigation, research and implement coding solutions from trusted sources ( Google, Stack Overflow ).
-  -	Technologies used: JavaScript, React, TypeScript, Java, Jest, React Testing Library, HTML, CSS, Sass, SQL, Serverless, AWS Lambda, AWS Cloudfront, Jira.
+  -	Technologies used: JavaScript, React, TypeScript, Java, Jest, React Testing Library, HTML, CSS, Sass, SQL, Serverless, AWS Lambda, AWS Cloudfront, Terraform, Jira, Slack, Teams.
 
 <br><br>
 
@@ -41,7 +43,7 @@ First Point of contact for students and staff at the univerity.
 
 ## 📌 Personal Projects
 
-**Gainz Club NFT** | [Repo](https://github.com/connectwd/GainzClub.github.io) - NFT project to promote personal fitness and men's mental health <br>
+**Gainz Club NFT** | [Repo](https://github.com/connectwd/GainzClub.github.io) ( Retired )- NFT project to promote personal fitness and men's mental health <br>
 [GainzClub](https://gainzclub.xyz/) aimed to bring the fitness industry into the new digital age while also donating a portion of profits to men's mental health charities.
 
 ## 🏆 Certifications
