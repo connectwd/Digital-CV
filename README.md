@@ -15,7 +15,7 @@ Provider of industry-leading CPD and learning materials for the education sector
 - Designed and implemented new features to enhance user experience and meet architectural requirements.
 - Developed and maintained robust unit tests, ensuring high technical and developmental standards.
 - Supported Agile development processes, including sprint planning and retrospectives.
-- **Technologies:** JavaScript, Next.js, TypeScript, Auth0, Git, Github Projects, Jest, SQL, Serverless, Jira, Slack, Teams.
+- **Technologies:** JavaScript, Next.js, TypeScript, Tailwind, Auth0, Git, Github Projects, Jest, SQL, Serverless, Jira, Slack, Teams.
 
 ### **Software Engineer**
 [William Hill](https://williamhill.com/) _(Aug 2019 - Apr 2024)_  
