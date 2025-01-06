@@ -67,7 +67,7 @@ Focused on identifying and mitigating vulnerabilities like XSS and SQL injection
 [GitHub Repository](https://github.com/connectwd/GainzClub.github.io) _(Retired)_  
 - Designed and launched an NFT project promoting personal fitness and men's mental health.
 - Integrated blockchain technology to engage the fitness community and donate a portion of profits to mental health charities.
-- **Technologies:** [Specify relevant tech here, e.g., Solidity, React, etc.].
+- **Technologies:**  React
 
 ---
 
